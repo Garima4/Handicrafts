@@ -1,0 +1,60 @@
+/*gallery*/
+.row{height: 360px; width:100%}
+.col{height:360px; width:33%; float: left}
+img{height:340px; width:98%; border-radius: 5%;filter:drop-shadow(10px 10px 5px black)}
+h1{
+    color:cornflowerblue; text-align: center;
+}
+a:link{text-decoration:none;color:white;}
+li a:link{text-decoration:none;color:white;}
+
+a:visited{text-decoration:none;color:white;}
+a:hover{text-decoration:none;color:olive;}
+/*brass,marble,rajasthani,wooden*/
+.row1{color: crimson;font-size: 20px;text-align: center;outline-style: groove;outline-color: black; }
+ul
+{
+   list-style-type: georgian;
+    list-style-position: inside;
+}
+li:hover{color:chartreuse;font-size:30px;}
+.row2{height: 360px; width:100%}
+.col1{height:360px; width:33%; float: left}
+.img1{height:340px; width:98%; border-radius: 5%;filter:drop-shadow(10px 10px 5px gray);border-style: groove; border-color: black;}
+.img1:hover{border:medium groove orange;}
+#bottom{
+    color:blueviolet; font-family: cursive;
+}
+#top{
+    color:blueviolet; font-family:cursive;
+}
+/*shop*/
+
+        .row3{height: 350px; width:100%}
+        .col2{height:350px;  width:35%; float: left}
+        .col3{height:350px; width:60%; float: right}
+        .col4{height:350px; width:60%; float: left}
+        .col5{height:350px; width:35%; float: right}
+        img{height:340px; width:98%}
+        p{text-align: justify; text-indent: 50px; outline-style: double}
+.img2{height:340px; width:98%; border-radius: 5%;filter:drop-shadow(10px 10px 5px crimson);border-style:groove; border-color: black;}
+.img2:hover{border:medium groove blue}
+::selection{background-color: palegreen;color:black;}
+.p1{color:cornflowerblue;font-size: 25px;}
+.p2{font-style:oblique; font-size: 30px;}
+/*navbar*/
+.rows{height: 100px; width: 100%}
+.nav-col{height:100px; width:100%}
+.ul1{list-style-type: none;background-color: crimson;color: white;padding:  20px; text-align: center;}
+
+li{display: inline;padding: 20px;}
+#i8{font-size: 50px;}
+#i10{font-size: 50px; color:yellow;}
+#i9{font-size: 50px; color:lawngreen;}
+#i7{font-size: 50px; color:dodgerblue;}
+#i6{font-size: 50px;}
+#i6{font-size: 20px;}
+.s2{text-decoration: underline;}
+
+
+
